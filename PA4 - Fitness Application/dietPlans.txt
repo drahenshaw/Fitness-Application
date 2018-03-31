@@ -1,0 +1,27 @@
+Diet Plan Monday
+2000
+06/14/2018
+
+Diet Plan Tuesday
+1985
+06/15/2018
+
+Diet Plan Wednesday
+2000
+06/16/2018
+
+Diet Plan Thursday
+1975
+06/17/2018
+
+Diet Plan Friday
+2000
+06/18/2018
+
+Diet Plan Saturday
+1950
+06/19/2018
+
+Diet Plan Sunday
+3000
+06/20/2018

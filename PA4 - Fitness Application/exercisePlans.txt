@@ -1,0 +1,27 @@
+Exercise Plan Monday
+10000
+06/14/2018
+
+Exercise Plan Tuesday
+11111
+06/15/2018
+
+Exericse Plan Wednesday
+12000
+06/16/2018
+
+Exercise Plan Thursday
+13000
+06/17/2018
+
+Exercise Plan Friday
+13500
+06/18/2018
+
+Exercise Plan Saturday
+8000
+06/19/2018
+
+Exercise Plan Sunday
+8000
+06/20/2018
